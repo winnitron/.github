@@ -1,5 +1,7 @@
 # THIS ORG HAS BEEN DEPRECATED!
 
-If you are still interested in Winnitron Launcher related stuff, go check out the new repo by Serateri on Codeberg! It's been redesigned from the ground up using Godot!
+...because it has been redesigned it from the ground up using Godot! It's much better!
 
 GO HERE: https://codeberg.org/seratari/winnitron-launcher/releases
+
+<img width="400" height="298" alt="ikea-sad_2" src="https://github.com/user-attachments/assets/9d18b695-0d82-41e4-863b-acf33228b9ab" />
