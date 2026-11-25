@@ -1,6 +1,6 @@
 # THIS ORG HAS BEEN DEPRECATED!
 
-...because it has been redesigned it from the ground up using Godot! It's much better!
+...because someone has redesigned the launcher from the ground up using Godot! It's much better!
 
 GO HERE: https://codeberg.org/seratari/winnitron-launcher/releases
 
